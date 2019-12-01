@@ -6,7 +6,7 @@ Prof.: Thiago Ribeiro de Oliveira
 Universidade Federal de Minas Gerais
 Projeto e simulação de um gerador de funções
 
-1. Diretrizes
+## Diretrizes
 
 O gerador de funções deve ter as seguintes características:
 
